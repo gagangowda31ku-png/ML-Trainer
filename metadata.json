@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Data Scientist",
+  "description": "AI-Powered Autonomous Data Science & AutoML Platform — automated profiling, cleaning, EDA, feature engineering, model training, SHAP explainability, prediction playground, and executive intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
